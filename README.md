@@ -1,2 +1,2 @@
-#Pizza
+Pizza
 Project from thinkful.
